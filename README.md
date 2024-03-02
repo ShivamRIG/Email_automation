@@ -24,21 +24,21 @@ This project is currently in active development. New features and enhancements a
 ```bash
 git clone https://github.com/yourusername/python-email-automation.git
 ```
-##Usage
+## Usage
 Set up your SMTP server details in config.py.
 Customize your email templates in the templates directory.
 Run the script:
 ```bash
 python Email.py
 ```
-##SMTP Protocol
+## SMTP Protocol
 Python Email Automation Script uses the SMTP protocol for sending emails. SMTP (Simple Mail Transfer Protocol) is a communication protocol for electronic mail transmission. It enables the transmission of email messages over the internet to an email server for delivery.
 
-##MIME SMTP
+## MIME SMTP
 The script utilizes MIME (Multipurpose Internet Mail Extensions) for handling email content. MIME is an internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request with your enhancements.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
