@@ -43,7 +43,7 @@ The script utilizes MIME (Multipurpose Internet Mail Extensions) for handling em
 
 Let's stay in touch! Reach out to me on Twitter or via email:
 
-[![Twitter](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/ShivamSingh80_0)
+[![Twitter](https://img.shields.io/twitter/follow/shivamSingh80_0?style=social)](https://twitter.com/ShivamSingh80_0)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue)](mailto:shivamsingh8461@outlook.com)
 
 
