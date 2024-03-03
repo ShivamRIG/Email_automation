@@ -31,6 +31,8 @@ Run the script:
 ```bash
 python Email.py
 ```
+## Language
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Smtp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ## SMTP Protocol
 Python Email Automation Script uses the SMTP protocol for sending emails. SMTP (Simple Mail Transfer Protocol) is a communication protocol for electronic mail transmission. It enables the transmission of email messages over the internet to an email server for delivery.
 
