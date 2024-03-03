@@ -1,6 +1,6 @@
 # Python Email Automation Script
 
-![Python Email Automation Script](https://example.com/coolgif.gif)
+![Python Email Automation Script]([https://example.com/coolgif.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVwMXlpYmk2NmJhc2RidmRrZHFkZHN3eTFtbXZjOWkzaTBxcm9mMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif))
 
 Streamline Your Communication Efforts with Python Email Automation Script. This versatile tool is designed to simplify your communication processes, saving you valuable time and effort. Whether you're managing client relationships, sending out newsletters, or coordinating with your team, this script automates the tedious task of composing and sending emails.
 
