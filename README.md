@@ -39,6 +39,14 @@ Python Email Automation Script uses the SMTP protocol for sending emails. SMTP (
 ## MIME SMTP
 The script utilizes MIME (Multipurpose Internet Mail Extensions) for handling email content. MIME is an internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs.
 
+### Connect with Me
+
+Let's stay in touch! Reach out to me on Twitter or via email:
+
+[![Twitter](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/ShivamSingh80_0)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue)](mailto:shivamsingh8461@outlook.com)
+
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request with your enhancements.
 
